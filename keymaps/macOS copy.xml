@@ -5,4 +5,11 @@
   </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
 </keymap>
