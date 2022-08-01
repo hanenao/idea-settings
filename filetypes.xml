@@ -5,7 +5,9 @@
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping pattern=".envrc.sample" type="PLAIN_TEXT" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
       <removed_mapping pattern=".envrc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
