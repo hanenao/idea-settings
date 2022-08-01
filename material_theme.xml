@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="009688" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-47a5c365:18257273f85:-8000" />
+    <option name="version" value="7.7.1" />
+  </component>
+</application>
