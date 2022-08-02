@@ -1,21 +1,21 @@
 <application>
   <component name="MaterialCustomThemeConfig">
-    <option name="colorScheme" value="Material Darker" />
-    <option name="excludedColor" value="323232ff" />
-    <option name="accentColor" value="ff9800ff" />
-    <option name="notificationsColor" value="1a1a1aff" />
-    <option name="treeSelectionColor" value="9f6f0478" />
-    <option name="highlightColor" value="3f3f3fff" />
-    <option name="secondBorderColor" value="292929ff" />
-    <option name="tableSelectedColor" value="323232ff" />
-    <option name="contrastColor" value="1a1a1aff" />
-    <option name="disabledColor" value="474747ff" />
-    <option name="secondaryBackgroundColor" value="292929ff" />
-    <option name="buttonColor" value="2a2a2aff" />
-    <option name="selectionForegroundColor" value="ffffffff" />
-    <option name="selectionBackgroundColor" value="404040ff" />
-    <option name="textColor" value="ecececff" />
-    <option name="foregroundColor" value="b0bec5ff" />
-    <option name="backgroundColor" value="212121ff" />
+    <option name="colorScheme" value="Dracula (Material)" />
+    <option name="excludedColor" value="313341ff" />
+    <option name="accentColor" value="ff79c5ff" />
+    <option name="notificationsColor" value="1d2228ff" />
+    <option name="treeSelectionColor" value="44475a50" />
+    <option name="highlightColor" value="44475aff" />
+    <option name="secondBorderColor" value="21222cff" />
+    <option name="tableSelectedColor" value="44475aff" />
+    <option name="contrastColor" value="191a21ff" />
+    <option name="disabledColor" value="6272a4ff" />
+    <option name="secondaryBackgroundColor" value="282a36ff" />
+    <option name="buttonColor" value="393c4bff" />
+    <option name="selectionForegroundColor" value="8be9fdff" />
+    <option name="selectionBackgroundColor" value="44475aff" />
+    <option name="textColor" value="c2cae7ff" />
+    <option name="foregroundColor" value="f8f8f2ff" />
+    <option name="backgroundColor" value="282a36ff" />
   </component>
 </application>
