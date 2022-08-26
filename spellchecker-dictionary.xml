@@ -8,6 +8,7 @@
       <w>doublings</w>
       <w>encodable</w>
       <w>envconfig</w>
+      <w>errcheck</w>
       <w>golangci</w>
       <w>goprivate</w>
       <w>jsonrpc</w>
