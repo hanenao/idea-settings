@@ -11,6 +11,7 @@
       <w>errcheck</w>
       <w>golangci</w>
       <w>goprivate</w>
+      <w>interfix</w>
       <w>jsonrpc</w>
       <w>unipon</w>
       <w>unipos</w>
