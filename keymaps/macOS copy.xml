@@ -4,12 +4,18 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase" />
   <action id="FileChooser.GotoProject" />
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Markdown.Styling.CreateLink" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
 </keymap>
