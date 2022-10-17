@@ -11,7 +11,7 @@
     <mask>*.go2</mask>
     <mask>*.md</mask>
     <mask>*.elm</mask>
-    <mask>*.go</mask>
     <mask>*.tf</mask>
+    <mask>*.go</mask>
   </component>
 </application>
