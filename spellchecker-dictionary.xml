@@ -9,6 +9,7 @@
       <w>encodable</w>
       <w>envconfig</w>
       <w>errcheck</w>
+      <w>gofumpt</w>
       <w>golangci</w>
       <w>goprivate</w>
       <w>idtoken</w>
